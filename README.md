@@ -21,7 +21,6 @@
 ---
 <div align="center">
   <img 
-       align=
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NativiXK&layout=compact&langs_count=7&theme=dark" 
        alt="NativiXK most used programming languages" 
        style="margin: 20px auto;"
