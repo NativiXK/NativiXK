@@ -1,18 +1,33 @@
 ### Hi there 👋 I'm Mateus Konkol (NativiXK) from Brazil
-
+## 
 <!-- <img src="https://img.shields.io/badge/Python--green">
 <img src="https://img.shields.io/badge/Web--red">
 <img src="https://img.shields.io/badge/Backend--blue"> -->
 
 ---
-- 💪  I’m currently working on personal improvement and career change.
+- 💪 I’m currently working on personal improvement and career change.
 - 🌱 I’m currently learning Front-end/Back-end with Flask Python framework.
-- 👓 I’m looking to learn more about machine learning, data science
+- 👓 I’m looking to learn more about machine learning, data science and mobile.
 
-<a href="https://www.linkedin.com/in/mateus-konkol/" target="_blank" style="margin: 20px;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://www.instagram.com/konkol_m" target="_blank" style="margin: 20px;"><img src="https://img.shields.io/badge/-Instagram-%230077?style=for-the-badge&logo=instagram&logoColor=pink"></a>
+<a href="https://www.linkedin.com/in/mateus-konkol/" target="_blank" style="margin: 20px;">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/konkol_m" target="_blank" style="margin: 20px;">
+  <img src="https://img.shields.io/badge/-Instagram-%230077?style=for-the-badge&logo=instagram&logoColor=pink"/>
+</a>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NativiXK&layout=compact&langs_count=7&theme=chartreuse-dark" alt="NativiXK most used programming languages" style="margin: 20px;">
+<img 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NativiXK&layout=compact&langs_count=7&theme=dark" 
+     alt="NativiXK most used programming languages" 
+     style="align: center; margin: 20px;"
+/>
+
+<img 
+     src="http://github-readme-streak-stats.herokuapp.com/?user=NativiXK&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+     alt="NativiXK contribuition streak" 
+     style="align: center; margin: 20px;"
+/>
 
 <!--
 **NativiXK/NativiXK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
