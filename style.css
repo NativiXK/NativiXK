@@ -1,0 +1,23 @@
+
+.panel {
+    margin: 10px;
+    border: 20px;
+    border-radius: 5px;
+    background-color: darkblue;
+    -webkit-box-shadow: 10px 10px 19px 0px rgba(0,0,0,0.48); 
+    box-shadow: 10px 10px 19px 0px rgba(0,0,0,0.48);
+
+}
+
+.panel#main {
+    display: inline;
+}
+
+.panel#left {
+    height: 50px;
+}
+
+.panel#right {
+    height: 50px;
+
+}
