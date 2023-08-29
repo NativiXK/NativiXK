@@ -1,0 +1,158 @@
+/* COLOR REFERENCE: https://colorhunt.co/palette/21325e3e497af1d00af0f0f0 */
+
+
+#background
+{
+    width:100%;
+    top: 0;
+    left: 0;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    max-height: 450px;
+}
+
+#portrait
+{
+    position: absolute;
+    display: flex;
+    background-color: #F0F0F0;
+    max-height: 250px;
+    max-width: 250px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    border-radius: 50%;
+    align-items: center;
+}
+
+#portrait:hover
+{
+    transform: scale(1.2);
+}
+
+#profile-img
+{
+    width: 95%;
+    height: 95%;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#profile-board
+{
+    position: relative;
+    display: flex;
+}
+
+#header-title
+{
+    left: 0;
+    bottom: 0;
+    height: auto;
+    width: auto;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #F0F0F0;
+    margin-top: 2.5%;
+}
+
+#badges
+{
+    display: inline-block;
+    justify-content: space-evenly;
+    height: fit-content;
+}
+
+.badge:hover
+{
+    transform: scale(1.1);
+}
+
+.bookshelf
+{
+    max-width: 90%;
+    margin: auto;
+}
+
+.bookshelf td
+{
+    padding: 0;
+}
+
+.book
+{
+    margin: 10px;
+}
+
+.book:hover
+{
+    transform: scale(1.1);
+}
+
+.book img {
+    max-height: 150px;
+}
+
+button
+{
+    color: #F0F0F0;
+    padding: 5px;
+    background-color: #21325E;
+    border: 0;
+    border-radius: 5px;
+}
+
+button svg
+{
+    margin-right: 10px;
+}
+
+button:hover
+{
+    transform: scale(1.1);
+}
+
+button span
+{
+    font-size: larger;
+    margin: 0 auto;
+}
+
+header
+{
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #F0F0F0;
+}
+
+body
+{
+    margin: 2% auto;
+    background-color: #3E497A;
+}
+
+main
+{
+    max-width: 900px;
+    position: relative;
+    align-items: center;
+    justify-items: center;
+    margin: 0 auto;
+    background-color: #F0F0F0;
+}
+
+footer
+{
+    max-width: 900px;
+    min-height: 100px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 0 10% 0 10%;
+    margin: 0 auto;
+    background-color: #F0F0F0;
+}
