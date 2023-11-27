@@ -6,8 +6,8 @@
 
 ---
 - 💪 I’m currently working on personal improvement and career change.
-- 🌱 I’m currently studying embedded development.
-- 👓 I’m looking to learn more about machine learning, data science, mobile and embedded development.
+- 🌱 I’m currently studying data science.
+- 👓 I’m looking to learn more about machine learning, mobile and embedded development.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateus-konkol/" target="_blank" style="margin: 20px;">
