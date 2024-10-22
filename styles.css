@@ -1,158 +1,83 @@
-/* COLOR REFERENCE: https://colorhunt.co/palette/21325e3e497af1d00af0f0f0 */
-
-
-#background
-{
-    width:100%;
-    top: 0;
-    left: 0;
-    border-top-right-radius: 5px;
-    border-top-left-radius: 5px;
-    max-height: 450px;
-}
-
-#portrait
-{
-    position: absolute;
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
     display: flex;
-    background-color: #F0F0F0;
-    max-height: 250px;
-    max-width: 250px;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    top: 0;
-    margin: auto;
-    border-radius: 50%;
+    justify-content: center;
     align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #006f89; /* Same blue as the background */
 }
 
-#portrait:hover
-{
-    transform: scale(1.2);
-}
-
-#profile-img
-{
-    width: 95%;
-    height: 95%;
-    border-radius: 50%;
-    margin: 0 auto;
-}
-
-#profile-board
-{
-    position: relative;
+.card-container {
     display: flex;
-}
-
-#header-title
-{
-    left: 0;
-    bottom: 0;
-    height: auto;
-    width: auto;
     align-items: center;
-    text-align: center;
-    border-radius: 5px;
-    background-color: #F0F0F0;
-    margin-top: 2.5%;
+    height: 50%;
+    max-height: 400px;
 }
 
-#badges
-{
-    display: inline-block;
-    justify-content: space-evenly;
-    height: fit-content;
+.profile-img {
+    margin-right: -5%; /* Pull the image into the card */
+    z-index: 1; /* Make sure the profile image appears above the card */
 }
 
-.badge:hover
-{
-    transform: scale(1.1);
-}
-
-.bookshelf
-{
-    max-width: 90%;
-    margin: auto;
-}
-
-.bookshelf td
-{
-    padding: 0;
-}
-
-.book
-{
-    margin: 10px;
-}
-
-.book:hover
-{
-    transform: scale(1.1);
-}
-
-.book img {
-    max-height: 150px;
-}
-
-button
-{
-    color: #F0F0F0;
-    padding: 5px;
-    background-color: #21325E;
-    border: 0;
-    border-radius: 5px;
-}
-
-button svg
-{
-    margin-right: 10px;
-}
-
-button:hover
-{
-    transform: scale(1.1);
-}
-
-button span
-{
-    font-size: larger;
-    margin: 0 auto;
-}
-
-header
-{
-    max-width: 900px;
-    margin: 0 auto;
-    background-color: #F0F0F0;
-}
-
-body
-{
-    margin: 2% auto;
-    background-color: #3E497A;
-}
-
-main
-{
-    max-width: 900px;
-    position: relative;
-    align-items: center;
-    justify-items: center;
-    margin: 0 auto;
-    background-color: #F0F0F0;
-}
-
-footer
-{
-    max-width: 900px;
+.profile-img img {
     min-height: 100px;
-    position: relative;
+    min-width: 100px;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 5px solid #006f89; /* Blue background color to make it blend */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.8);
+}
+
+.business-card {
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
-    padding: 0 10% 0 10%;
-    margin: 0 auto;
-    background-color: #F0F0F0;
+    justify-content: space-between;
+    height: 50%;
+    min-height: fit-content;
+    min-width: fit-content;
+    padding: 5% 5% 5% 10%;
+    background-color: #006f89;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.8);
+    color: #fff;
+}
+
+.content {
+    flex: 1;
+}
+
+h1 {
+    color: #ffc107; /* Mateus Konkol yellow color */
+    font-size: 200%;
+    margin: 0;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin: 0;
+    margin-bottom: 10px;
+    color: #9fd1e6; /* Light blue text */
+}
+
+p {
+    margin: 5px 0;
+    color: #fff;
+}
+
+a {
+    color: #ffc107; /* Link color */
+    text-decoration: none;
+}
+
+.qr-code img {
+    border-radius: 10px;
+}
+
+.qr-code {
+    display: flex;
+    height: 100%;
+    margin-left: 15px;
 }
