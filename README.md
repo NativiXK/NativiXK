@@ -7,15 +7,10 @@
 ---
 - 💪 I’m currently working on personal improvement and career change.
 - 🌱 I’m currently studying data science.
-- 👓 I’m looking to learn more about machine learning, mobile and embedded development.
+- 👓 I’m looking to learn more about machine learning, and embedded development.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mateus-konkol/" target="_blank" style="margin: 20px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/konkol_m" target="_blank" style="margin: 20px;">
-    <img src="https://img.shields.io/badge/-Instagram-%230077?style=for-the-badge&logo=instagram&logoColor=pink"/>
-  </a>
+<div align="center" class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mateus-konkol" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/mateus-konkol?trk=profile-badge">Mateus K.</a>
 </div>
 
 ---
